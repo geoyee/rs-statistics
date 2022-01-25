@@ -11,4 +11,4 @@
 - [ ] [2020数字中国创新大赛-数字政府赛道 创新应用赛1：建筑智能普查]()
 - [ ] [火箭军“智箭·火眼”人工智能挑战赛]()
 - [x] [CCF&百度 遥感影像地块分割](https://github.com/Andy1621/seg-for-fun)
-
+- [x] [MathorCup高校数学建模挑战赛遥感地块分割](https://github.com/wstchhwp/Remote-sensing-plot-segmentation-and-extraction-based-on-few-samples)
